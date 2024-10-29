@@ -1,6 +1,6 @@
 export default function Cards (){
     return(
-        <div className=" flex bg-[#252B42] h-screen gap-[30px]  pb-10">
+        <div className=" flex bg-[#252B42] h-screen gap-[30px]">
     
                 {/* card1 */}
                 <div  className="bg-[#FFFFFF] shadow-costom w-[328px] h-[292px] py-[35px] px-10 gap-5 ml-[150px] hover:bg-pink-200">
